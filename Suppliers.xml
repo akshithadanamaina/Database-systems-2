@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Suppliers>
+    <Supplier>
+        <SupplierID>1</SupplierID>
+        <Name>RecycleWorks Inc.</Name>
+        <MaterialSupplied>HDPE Plastic</MaterialSupplied>
+    </Supplier>
+    <Supplier>
+        <SupplierID>2</SupplierID>
+        <Name>EcoMaterials LLC</Name>
+        <MaterialSupplied>PET Plastic</MaterialSupplied>
+    </Supplier>
+    <Supplier>
+        <SupplierID>3</SupplierID>
+        <Name>GreenSupply Co.</Name>
+        <MaterialSupplied>LDPE Plastic</MaterialSupplied>
+    </Supplier>
+</Suppliers>

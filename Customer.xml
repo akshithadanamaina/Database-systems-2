@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Customers>
+    <Customer>
+        <CustomerID>1</CustomerID>
+        <FullName>John Doe</FullName>
+        <Address>123 Maple Drive, Anytown, NY</Address>
+    </Customer>
+    <Customer>
+        <CustomerID>2</CustomerID>
+        <FullName>Jane Smith</FullName>
+        <Address>456 Oak Lane, Somewhere, CA</Address>
+    </Customer>
+    <Customer>
+        <CustomerID>3</CustomerID>
+        <FullName>Carlos Ramirez</FullName>
+        <Address>789 Pine Street, Anywhere, TX</Address>
+    </Customer>
+</Customers>

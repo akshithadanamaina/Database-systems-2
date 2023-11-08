@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Orders>
+    <Order>
+        <OrderID>1</OrderID>
+        <CustomerID>1</CustomerID>
+        <OrderDate>2023-03-01</OrderDate>
+    </Order>
+    <Order>
+        <OrderID>2</OrderID>
+        <CustomerID>2</CustomerID>
+        <OrderDate>2023-03-05</OrderDate>
+    </Order>
+    <Order>
+        <OrderID>3</OrderID>
+        <CustomerID>3</CustomerID>
+        <OrderDate>2023-03-10</OrderDate>
+    </Order>
+</Orders>

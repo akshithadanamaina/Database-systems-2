@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ProductionBatches>
+    <ProductionBatch>
+        <BatchID>1</BatchID>
+        <ProductID>1</ProductID>
+        <Quantity>100</Quantity>
+    </ProductionBatch>
+    <ProductionBatch>
+        <BatchID>2</BatchID>
+        <ProductID>2</ProductID>
+        <Quantity>50</Quantity>
+    </ProductionBatch>
+    <ProductionBatch>
+        <BatchID>3</BatchID>
+        <ProductID>3</ProductID>
+        <Quantity>150</Quantity>
+    </ProductionBatch>
+</ProductionBatches>

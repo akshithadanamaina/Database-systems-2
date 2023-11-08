@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Products>
+    <Product>
+        <ProductID>1</ProductID>
+        <Name>EcoChair</Name>
+        <MaterialType>HDPE Plastic</MaterialType>
+    </Product>
+    <Product>
+        <ProductID>2</ProductID>
+        <Name>EcoTable</Name>
+        <MaterialType>PET Plastic</MaterialType>
+    </Product>
+    <Product>
+        <ProductID>3</ProductID>
+        <Name>EcoStool</Name>
+        <MaterialType>LDPE Plastic</MaterialType>
+    </Product>
+</Products>
